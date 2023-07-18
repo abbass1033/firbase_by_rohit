@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948395937639",
+    "project_id": "fir-byrohit",
+    "storage_bucket": "fir-byrohit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948395937639:android:e0c25a3682e0ce6261a9c2",
+        "android_client_info": {
+          "package_name": "com.example.firbase_by_rohit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948395937639-vbnl81la9l4mn2jmhe2fvig3330v0jgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAymRwUS78KKEjglPQhZMpc7y9PRfeCsHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948395937639-vbnl81la9l4mn2jmhe2fvig3330v0jgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
